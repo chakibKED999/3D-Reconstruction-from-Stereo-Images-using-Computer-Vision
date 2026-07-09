@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
 ![Open3D](https://img.shields.io/badge/Open3D-Visualization-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Master](https://img.shields.io/badge/Master-MIV-lightgrey)
 
 ---
 
